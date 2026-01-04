@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Website</title>
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+  <p>Ye meri pehli website hai.</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Samosa Central - The Ultimate Samosa Guide</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f4f4f4; }
+        header { text-align: center; background-color: #ffcc00; padding: 20px; }
+        section { margin: 20px 0; padding: 20px; background-color: white; border-radius: 8px; }
+        h2 { color: #d2691e; }
+        img { max-width: 100%; height: auto; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Samosa Central!</h1>
+        <p>Your go-to hub for everything samosa: history, recipes, and more.</p>
+    </header>
+    
+    <section id="introduction">
+        <h2>What is a Samosa?</h2>
+        <p>A samosa is a fried or baked pastry with a savory filling, originating from the Middle East and Central Asia. It's a staple in Indian, Pakistani, and Middle Eastern cuisines, often filled with spiced potatoes, peas, lentils, or meat. Crispy on the outside, flavorful on the inside—perfect as a snack or appetizer!</p>
+        <img src="https://example.com/samosa-image.jpg" alt="A delicious samosa" /> <!-- Replace with a real image URL -->
+    </section>
+    
+    <section id="history">
+        <h2>A Brief History</h2>
+        <p>Samosas date back to the 10th century in the Middle East, introduced to India by traders during the Mughal era. The word "samosa" comes from Persian "sambusa." Today, they're enjoyed worldwide, with variations like the Punjabi aloo samosa or meat-filled versions.</p>
+    </section>
+    
+    <section id="recipe">
+        <h2>Easy Samosa Recipe</h2>
+        <h3>Ingredients (for 10-12 samosas):</h3>
+        <ul>
+            <li>2 cups boiled potatoes, mashed</li>
+            <li>1 cup peas</li>
+            <li>1 tsp cumin seeds, 1 tsp garam masala, salt to taste</li>
+            <li>1 tbsp oil, chopped green chilies, ginger-garlic paste</li>
+            <li>Samosa wrappers or homemade dough</li>
+            <li>Oil for frying</li>
+        </ul>
+        <h3>Steps:</h3>
+        <ol>
+            <li>Heat oil, add cumin, ginger-garlic paste, and spices. Add potatoes and peas; cook for 5-7 mins.</li>
+            <li>Fill wrappers into triangles, seal edges with water.</li>
+            <li>Fry in hot oil until golden. Serve with chutney!</li>
+        </ol>
+        <p>Prep time: 20 mins | Cook time: 15 mins | Total: 35 mins</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Love samosas? Share your favorite recipe or tips! Email: samosa@central.com</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2023 Samosa Central. All rights reserved.</p>
+    </footer>
+</body>
+</html>
